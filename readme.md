@@ -11,3 +11,4 @@ depuis [dev.to](https://dev.to/thepracticaldev/daily-challenge-1-string-peeler-4
 * dc7
 * dc8
 * dc9
+* dc10
