@@ -2,13 +2,5 @@
 
 depuis [dev.to](https://dev.to/thepracticaldev/daily-challenge-1-string-peeler-4nep?signin=true)
 
-* dc1
-* dc2
-* dc3
-* dc4
-* dc5
-* dc6
-* dc7
-* dc8
-* dc9
-* dc10
+* dc1-10 done
+* dc11 en cours
